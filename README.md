@@ -58,7 +58,7 @@ It is also built to harm Spotify as little as possible. That's why it **requires
 
 - Spotify **Premium**
 - Your own **Soloist API key** (entered in Settings)
-- **macOS** on Apple Silicon or **Windows** x64 (Linux builds exist but are unsupported)
+- **macOS** on Apple Silicon or **Windows** x64
 
 Lowkey downloads Soloist from Spotify's servers on first run. It is never bundled.
 
